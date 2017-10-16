@@ -1,7 +1,7 @@
 {
-  "name": "vue-express-mongo-boilerplate",
+  "name": "Axonradio-app",
   "version": "0.9.0",
-  "title": "Vue-Express-Mongo BoilerPlate",
+  "title": "Axonradio web app",
   "description": "Express NodeJS application server boilerplate with Mongo and VueJS",
   "main": "server/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:icebob/vue-express-mongo-boilerplate.git"
+    "url": "git@github.com:AXONRADio/Axonradio-app.git"
   },
   "keywords": [
     "boilerplate",
