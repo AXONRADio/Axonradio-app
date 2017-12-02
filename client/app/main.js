@@ -11,12 +11,10 @@ import Filters from "./core/filters";
 import VueI18Next from "./core/i18next.js";
 import VueFormGenerator from "vue-form-generator";
 import VueWebsocket from "vue-websocket";
-
 import store from "./core/store";
 import App from "./core/App";
 
 Vue.use(Filters);
-
 Vue.use(VueFormGenerator);
 Vue.use(VueWebsocket);
 

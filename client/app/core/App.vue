@@ -13,7 +13,6 @@
 
 <script>
 	import Vue from "vue";
-
 	import PageHeader from "./components/header/index";
 	import Sidebar from "./components/sidebar/index";
 
